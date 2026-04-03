@@ -2670,7 +2670,6 @@ var cnames_active = {
   "react-dnd-cn": "apex-loadbalancer.netlify.app",
   "react-dropzone": "react-dropzone.netlify.app",
   "react-dropzone-uploader": "fortana-co.github.io/react-dropzone-uploader",
-  "react-eagleeye": "webkrafters.github.io/react-eagleeye",
   "react-easy-swipe": "leandrowd.github.io/react-easy-swipe", // noCF? (don´t add this in a new PR)
   "react-entanglement": "react-entanglement.github.io",
   "react-hint": "slmgc.github.io/react-hint",
@@ -3208,6 +3207,7 @@ var cnames_active = {
   "sulky": "shingle.github.io/sulky", // noCF? (don´t add this in a new PR)
   "sum": "ultirequiem.github.io/sum",
   "suman": "devsumanmdn.github.io",
+  "sumit": "zesty-cupcake-6f04c7.netlify.app",
   "summer": "minecraftpublisher.github.io/SummerJS",
   "sunar": "cname.vercel-dns.com", // noCF
   "sunos": "sunos22.github.io",
