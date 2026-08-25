@@ -3329,6 +3329,7 @@ var cnames_active = {
   "sulky": "shingle.github.io/sulky", // noCF? (don´t add this in a new PR)
   "sum": "ultirequiem.github.io/sum",
   "suman": "devsumanmdn.github.io",
+  "sumit": "prosumitkumawat.github.io",
   "summer": "minecraftpublisher.github.io/SummerJS",
   "sunar": "cname.vercel-dns.com", // noCF
   "sunos": "sunos22.github.io",
